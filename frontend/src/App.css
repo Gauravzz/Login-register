@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  background: #b3e5fb;
+}
+
+.form{
+  background-color: white;
+  border-radius: 5px;
+  width: 550px;
+  margin: 20px auto;
+  padding: 20px;
+  /* height: 600px; */
+}
+
+.form-body{
+  width: 100%;
+  padding: 20px 10px;
+}
+
+.form-body > *{
+  padding: 10px;
+}
+
+.footer{
+  text-align: center;
+}
